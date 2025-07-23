@@ -1,1 +1,1 @@
-# Movie-Data-Analysis-App
+A Movie‑Data‑Analysis‑App is a tool designed to explore, clean, and visualize movie-related datasets (e.g., titles, budgets, revenue, genres, ratings). It typically uses Python with libraries like Pandas, Matplotlib, and Plotly to gain insights into film performance, popularity, and trend
